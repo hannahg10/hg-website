@@ -1,0 +1,1216 @@
+.mediaViewInfo {
+	--web-view-name: skills;
+	--web-view-id: skills;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: skills;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#skills {
+	position: absolute;
+	width: 1920px;
+	height: 1118px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: skills;
+	--web-view-id: skills;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+#footer {
+	position: absolute;
+	width: 899px;
+	height: 49.964px;
+	left: 510.5px;
+	top: 1047.5px;
+	overflow: visible;
+}
+#footer_line {
+	fill: transparent;
+	stroke: rgba(156,184,149,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.footer_line {
+	overflow: visible;
+	position: absolute;
+	width: 899px;
+	height: 1px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#footer_text {
+	position: absolute;
+	width: 690px;
+	height: 30.009px;
+	left: 104.5px;
+	top: 19.955px;
+	overflow: visible;
+}
+#footer_me {
+	left: 50px;
+	top: 0.545px;
+	position: absolute;
+	overflow: visible;
+	width: 641px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: PT Mono;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26px;
+	color: rgba(112,112,112,1);
+}
+#copyright_icon {
+	fill: rgba(112,112,112,1);
+}
+.copyright_icon {
+	overflow: visible;
+	position: absolute;
+	width: 30.009px;
+	height: 30.009px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#sm_icons {
+	position: absolute;
+	width: 45.71px;
+	height: 474.65px;
+	left: 62.64px;
+	top: 601.85px;
+	overflow: visible;
+	padding: 0px;
+}
+#sm_line {
+	fill: transparent;
+	stroke: rgba(156,184,149,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.sm_line {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 150px;
+	left: 22.855px;
+	top: 324.65px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#twitter_icon {
+	position: absolute;
+	width: 45.675px;
+	height: 37.254px;
+	left: 0.035px;
+	top: 246.396px;
+	overflow: visible;
+}
+#twitter_icon_u {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.twitter_icon_u {
+	overflow: visible;
+	position: absolute;
+	width: 48.675px;
+	height: 40.652px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#instagram_icon {
+	position: absolute;
+	width: 44.41px;
+	height: 44.41px;
+	left: 0px;
+	top: 160.985px;
+	overflow: visible;
+}
+#Path_4 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_4 {
+	overflow: visible;
+	position: absolute;
+	width: 47.41px;
+	height: 47.41px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_5 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_5 {
+	overflow: visible;
+	position: absolute;
+	width: 21.01px;
+	height: 21.01px;
+	left: 13.419px;
+	top: 13.227px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_6 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_6 {
+	overflow: visible;
+	position: absolute;
+	width: 3px;
+	height: 3px;
+	left: 34.418px;
+	top: 9.992px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#linkedin_icon {
+	position: absolute;
+	width: 42.451px;
+	height: 40.328px;
+	left: 0px;
+	top: 79.657px;
+	overflow: visible;
+}
+#Path_1 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 28.47px;
+	height: 30.593px;
+	left: 16.98px;
+	top: 12.735px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_2 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 11.49px;
+	height: 28.47px;
+	left: 0px;
+	top: 14.858px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_3 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_3 {
+	overflow: visible;
+	position: absolute;
+	width: 11.49px;
+	height: 11.49px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#github_icon {
+	position: absolute;
+	width: 35.85px;
+	height: 38.657px;
+	left: 3.3px;
+	top: 0px;
+	overflow: visible;
+}
+#github_icon_ {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.github_icon_ {
+	overflow: visible;
+	position: absolute;
+	width: 39.169px;
+	height: 41.701px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#btn_contact_me {
+	position: absolute;
+	width: 319px;
+	height: 107px;
+	left: 451px;
+	top: 744px;
+	display: none;
+	overflow: visible;
+}
+#btn_contact {
+	fill: transparent;
+	stroke: rgba(243,112,88,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.btn_contact {
+	position: absolute;
+	overflow: visible;
+	width: 319px;
+	height: 107px;
+	left: 0px;
+	top: 0px;
+}
+#btn_contact_text {
+	left: 25px;
+	top: 29px;
+	position: absolute;
+	overflow: visible;
+	width: 271px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: PT Mono;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 41px;
+	color: rgba(243,112,88,1);
+}
+#my_skills {
+	position: absolute;
+	width: 1379px;
+	height: 378px;
+	left: 271px;
+	top: 162px;
+	overflow: visible;
+}
+#skills_text {
+	left: 0px;
+	top: 110px;
+	position: absolute;
+	overflow: visible;
+	width: 1380px;
+	height: 268px;
+	text-align: left;
+	font-family: PT Mono;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 28px;
+	color: rgba(112,112,112,1);
+}
+#skils_head {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 379px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: PT Mono;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(156,184,149,1);
+}
+#nav_bar {
+	position: absolute;
+	width: 852px;
+	height: 44px;
+	left: 958px;
+	top: 36px;
+	overflow: visible;
+}
+#lightmode_icon {
+	position: absolute;
+	width: 33px;
+	height: 33px;
+	left: 894.943px;
+	top: 6px;
+	display: none;
+	overflow: visible;
+}
+#Path_7 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_7 {
+	overflow: visible;
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	left: 9px;
+	top: 9px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_8 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_8 {
+	overflow: visible;
+	position: absolute;
+	width: 3px;
+	height: 6px;
+	left: 16.5px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_9 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_9 {
+	overflow: visible;
+	position: absolute;
+	width: 3px;
+	height: 6px;
+	left: 16.5px;
+	top: 30px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_10 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_10 {
+	overflow: visible;
+	position: absolute;
+	width: 6.373px;
+	height: 6.373px;
+	left: 4.83px;
+	top: 4.83px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_11 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_11 {
+	overflow: visible;
+	position: absolute;
+	width: 6.373px;
+	height: 6.373px;
+	left: 26.04px;
+	top: 26.04px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_12 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_12 {
+	overflow: visible;
+	position: absolute;
+	width: 6px;
+	height: 3px;
+	left: 0px;
+	top: 16.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_13 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_13 {
+	overflow: visible;
+	position: absolute;
+	width: 6px;
+	height: 3px;
+	left: 30px;
+	top: 16.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_14 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_14 {
+	overflow: visible;
+	position: absolute;
+	width: 6.373px;
+	height: 6.373px;
+	left: 4.83px;
+	top: 26.04px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_15 {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_15 {
+	overflow: visible;
+	position: absolute;
+	width: 6.373px;
+	height: 6.373px;
+	left: 26.04px;
+	top: 4.83px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#darkmode_icon {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: round;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.darkmode_icon {
+	display: none;
+	overflow: visible;
+	position: absolute;
+	width: 29.944px;
+	height: 29.944px;
+	left: 897px;
+	top: 8.529px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#contact_text {
+	position: absolute;
+	width: 168px;
+	height: 44px;
+	left: 684px;
+	top: 0px;
+	overflow: visible;
+}
+#contact_text_bo {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 169px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: contact_me.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: PT Mono;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(156,184,149,1);
+	text-transform: lowercase;
+}
+#resume_text {
+	position: absolute;
+	width: 144px;
+	height: 44px;
+	left: 495px;
+	top: 0px;
+	overflow: visible;
+}
+#resume_text_bq {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 145px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: resume.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: PT Mono;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(156,184,149,1);
+	text-transform: lowercase;
+}
+#work_text {
+	position: absolute;
+	width: 96px;
+	height: 44px;
+	left: 354px;
+	top: 0px;
+	overflow: visible;
+}
+#work_text_bs {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 97px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: work.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: PT Mono;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(156,184,149,1);
+	text-transform: lowercase;
+}
+#skills_text_bt {
+	position: absolute;
+	width: 144px;
+	height: 44px;
+	left: 165px;
+	top: 0px;
+	overflow: visible;
+}
+#skills_text_bu {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 145px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: PT Mono;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(156,184,149,1);
+	text-transform: lowercase;
+}
+#about_text {
+	position: absolute;
+	width: 120px;
+	height: 44px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#about_text_bw {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 121px;
+	white-space: nowrap;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: about_me.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: PT Mono;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(156,184,149,1);
+	text-transform: lowercase;
+}
+#hg_logo {
+	position: absolute;
+	width: 175px;
+	height: 175px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: home.html;
+	cursor: pointer;
+}
+#hg_laptop {
+	position: absolute;
+	width: 466px;
+	height: 466px;
+	left: 1454px;
+	top: 559px;
+	overflow: visible;
+}
+#skills_icons {
+	position: absolute;
+	width: 1086.643px;
+	height: 391.818px;
+	left: 322.857px;
+	top: 583.18px;
+	overflow: visible;
+}
+#html5 {
+	position: absolute;
+	width: 90px;
+	height: 141.297px;
+	left: 0px;
+	top: 8.889px;
+	overflow: visible;
+}
+#html5_icon {
+	fill: rgba(52,55,56,1);
+}
+.html5_icon {
+	overflow: visible;
+	position: absolute;
+	width: 69.913px;
+	height: 79.9px;
+	left: 10.137px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#HTML5_txt {
+	left: 0px;
+	top: 107.297px;
+	position: absolute;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: PT Mono;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(52,55,56,1);
+}
+#css3 {
+	position: absolute;
+	width: 72px;
+	height: 141.297px;
+	left: 165.749px;
+	top: 7.389px;
+	overflow: visible;
+}
+#css3_icon {
+	fill: rgba(52,55,56,1);
+}
+.css3_icon {
+	overflow: visible;
+	position: absolute;
+	width: 69.913px;
+	height: 79.9px;
+	left: 0.975px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#CSS3_txt {
+	left: 0px;
+	top: 107.297px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: PT Mono;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(52,55,56,1);
+}
+#js {
+	position: absolute;
+	width: 180px;
+	height: 140.029px;
+	left: 295.928px;
+	top: 8.656px;
+	overflow: visible;
+}
+#javascript_icon {
+	fill: rgba(52,55,56,1);
+}
+.javascript_icon {
+	overflow: visible;
+	position: absolute;
+	width: 78.477px;
+	height: 78.477px;
+	left: 47.08px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#JavaScript_txt {
+	left: 0px;
+	top: 106.029px;
+	position: absolute;
+	overflow: visible;
+	width: 181px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: PT Mono;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(52,55,56,1);
+}
+#jquery {
+	position: absolute;
+	width: 108px;
+	height: 129.958px;
+	left: 529.143px;
+	top: 18.728px;
+	overflow: visible;
+}
+#jquery_icon {
+	fill: rgba(52,55,56,1);
+}
+.jquery_icon {
+	overflow: visible;
+	position: absolute;
+	width: 73.794px;
+	height: 71.075px;
+	left: 17.481px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#jQuery_txt {
+	left: 0px;
+	top: 95.958px;
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: PT Mono;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(52,55,56,1);
+}
+#java {
+	position: absolute;
+	width: 72px;
+	height: 148.15px;
+	left: 700.285px;
+	top: 0px;
+	overflow: visible;
+}
+#java_icon {
+	fill: rgba(52,55,56,1);
+}
+.java_icon {
+	overflow: visible;
+	position: absolute;
+	width: 60.18px;
+	height: 81.598px;
+	left: 6.2px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Java_txt {
+	left: 0px;
+	top: 114.15px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: PT Mono;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(52,55,56,1);
+}
+#c_c {
+	position: absolute;
+	width: 90px;
+	height: 137.297px;
+	left: 830.464px;
+	top: 10.853px;
+	overflow: visible;
+}
+#cplusplus_icon {
+	fill: rgba(52,55,56,1);
+}
+.cplusplus_icon {
+	overflow: visible;
+	position: absolute;
+	width: 70.997px;
+	height: 79.9px;
+	left: 5.305px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#CC_txt {
+	left: 0px;
+	top: 103.297px;
+	position: absolute;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: PT Mono;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(52,55,56,1);
+}
+#python {
+	position: absolute;
+	width: 108px;
+	height: 137.297px;
+	left: 978.643px;
+	top: 10.853px;
+	overflow: visible;
+}
+#python_icon {
+	fill: rgba(52,55,56,1);
+}
+.python_icon {
+	overflow: visible;
+	position: absolute;
+	width: 75.342px;
+	height: 74.967px;
+	left: 18.227px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Python_txt {
+	left: 0px;
+	top: 103.297px;
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: PT Mono;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(52,55,56,1);
+}
+#git {
+	position: absolute;
+	width: 79.899px;
+	height: 139.263px;
+	left: 0px;
+	top: 214.12px;
+	overflow: visible;
+}
+#git_icon {
+	fill: rgba(52,55,56,1);
+}
+.git_icon {
+	overflow: visible;
+	position: absolute;
+	width: 79.898px;
+	height: 79.9px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Git_txt {
+	left: 12.855px;
+	top: 105.263px;
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: PT Mono;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(52,55,56,1);
+}
+#firebase {
+	position: absolute;
+	width: 140px;
+	height: 144.019px;
+	left: 127.898px;
+	top: 209.364px;
+	overflow: visible;
+}
+#firebase_icon {
+	fill: rgba(52,55,56,1);
+}
+.firebase_icon {
+	overflow: visible;
+	position: absolute;
+	width: 63.844px;
+	height: 88.21px;
+	left: 34.858px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Firebase_txt {
+	left: 0px;
+	top: 111.019px;
+	position: absolute;
+	overflow: visible;
+	width: 141px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: PT Mono;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(52,55,56,1);
+}
+#aws {
+	position: absolute;
+	width: 85.744px;
+	height: 121.916px;
+	left: 311.898px;
+	top: 231.467px;
+	overflow: visible;
+}
+#aws_icon {
+	fill: rgba(52,55,56,1);
+}
+.aws_icon {
+	overflow: visible;
+	position: absolute;
+	width: 85.744px;
+	height: 51.275px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#AWS_txt {
+	left: 15.688px;
+	top: 87.916px;
+	position: absolute;
+	overflow: visible;
+	width: 55px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: PT Mono;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(52,55,56,1);
+}
+#terminal {
+	position: absolute;
+	width: 144px;
+	height: 125.814px;
+	left: 441.643px;
+	top: 227.568px;
+	overflow: visible;
+}
+#terminal_icon {
+	fill: rgba(52,55,56,1);
+}
+.terminal_icon {
+	overflow: visible;
+	position: absolute;
+	width: 81.388px;
+	height: 56.252px;
+	left: 31.306px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Terminal_txt {
+	left: 0px;
+	top: 91.814px;
+	position: absolute;
+	overflow: visible;
+	width: 145px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: PT Mono;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(52,55,56,1);
+}
+#vscode {
+	position: absolute;
+	width: 108px;
+	height: 133.826px;
+	left: 629.643px;
+	top: 219.556px;
+	overflow: visible;
+}
+#vscode_icon {
+	fill: rgba(52,55,56,1);
+}
+.vscode_icon {
+	overflow: visible;
+	position: absolute;
+	width: 79px;
+	height: 79px;
+	left: 9.701px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#VSCode_txt {
+	left: 0px;
+	top: 99.827px;
+	position: absolute;
+	overflow: visible;
+	width: 109px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: PT Mono;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(52,55,56,1);
+}
+#jetbrains {
+	position: absolute;
+	width: 162px;
+	height: 170.191px;
+	left: 781.643px;
+	top: 221.627px;
+	overflow: visible;
+}
+#intellijidea_icon {
+	fill: rgba(52,55,56,1);
+}
+.intellijidea_icon {
+	overflow: visible;
+	position: absolute;
+	width: 69.756px;
+	height: 69.756px;
+	left: 42.102px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Jetbrains_txt {
+	left: 0px;
+	top: 102.191px;
+	position: absolute;
+	overflow: visible;
+	width: 163px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: PT Mono;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(52,55,56,1);
+}
+#adobe {
+	position: absolute;
+	width: 90px;
+	height: 171.264px;
+	left: 987.643px;
+	top: 219.556px;
+	overflow: visible;
+}
+#adobe_icon {
+	fill: rgba(52,55,56,1);
+}
+.adobe_icon {
+	overflow: visible;
+	position: absolute;
+	width: 69.23px;
+	height: 69px;
+	left: 12.282px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Adobe_txt {
+	left: 0px;
+	top: 103.264px;
+	position: absolute;
+	overflow: visible;
+	width: 91px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: PT Mono;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(52,55,56,1);
+}
